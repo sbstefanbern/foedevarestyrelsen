@@ -1,3 +1,13 @@
+body{
+  font-family: "Oxygen", sans-serif;
+}
+
+.logoimg {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 2rem;
+  padding-right: 5rem;
+}
 
 .container-fluid{
   padding: 0;
@@ -16,7 +26,20 @@
   color: #fff !important;
 }
 
+<<<<<<< HEAD
 .kampagne-container {
   width: 100%;
   background-color: grey;
+=======
+.row{
+  margin: 0;
+}
+
+.custom-carousel{
+  background-color: #2d4e6c;
+}
+
+.carousel-caption > h1 {
+  font-weight: 200;
+>>>>>>> 3ab75fc98df75d89cdb539fd86c26c653f8fc264
 }
