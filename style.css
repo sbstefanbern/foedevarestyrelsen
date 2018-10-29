@@ -122,6 +122,12 @@ li a:hover{
   padding-bottom: 25px;
 }
 
+.carousel-caption{
+  margin-bottom: -25px !important;
+  text-align: left;
+  padding-left: 20px;
+}
+
 
 .fff{
   font-family: "Oxygen", sans-serif;
