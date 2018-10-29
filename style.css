@@ -49,6 +49,12 @@ footer{
   padding-top: 30px;
 }
 
+.copyright{
+  background-color:#333333;
+  color:#333333;
+  margin-top: 70px;
+}
+
 .headercontainer {
   width: 80%;
   margin: 0 auto;
