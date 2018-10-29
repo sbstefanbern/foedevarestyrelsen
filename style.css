@@ -1,3 +1,7 @@
+body{
+  font-family: "Oxygen", sans-serif;
+}
+
 .logoimg {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
@@ -20,4 +24,12 @@
 
 .row{
   margin: 0;
+}
+
+.custom-carousel{
+  background-color: #2d4e6c;
+}
+
+.carousel-caption > h1 {
+  font-weight: 200;
 }
