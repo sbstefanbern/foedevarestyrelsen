@@ -15,6 +15,18 @@ margin: auto;
   padding: 0;
 }
 
+.col-sm-6{
+  padding: 0;
+}
+
+.col-first-half{
+  padding-right: 10px;
+}
+
+.col-second-half{
+  padding-left: 10px;
+}
+
 .col-middle{
   padding: 0 15px;
 }
