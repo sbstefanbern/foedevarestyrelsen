@@ -6,6 +6,31 @@ p{
 margin: auto;
 }
 
+.container{
+  max-width: 2400px;
+  padding: 0;
+}
+
+.col-sm-4{
+  padding: 0;
+}
+
+.col-sm-6{
+  padding: 0;
+}
+
+.col-first-half{
+  padding-right: 10px;
+}
+
+.col-second-half{
+  padding-left: 10px;
+}
+
+.col-middle{
+  padding: 0 15px;
+}
+
 .navbar {
   padding: 0;
   margin: 0;
@@ -19,6 +44,12 @@ margin: auto;
 footer{
   background-color: #d2d2d2;
   padding-top: 30px;
+}
+
+.copyright{
+  background-color:#333333;
+  color:#333333;
+  margin-top: 70px;
 }
 
 .headercontainer {
