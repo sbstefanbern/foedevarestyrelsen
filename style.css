@@ -6,9 +6,28 @@ p{
 margin: auto;
 }
 
+.navbar {
+  padding: 0;
+  margin: 0;
+}
+.nav-link {
+  padding: 0;
+  margin:0 ;
+}
+
 footer{
   background-color: #d2d2d2;
   padding-top: 30px;
+}
+
+.headercontainer {
+  width: 80%;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.container-fluid {
+  padding: 0;
 }
 
 li a{
@@ -34,6 +53,13 @@ li a:hover{
 
 .contentcontainer {
   width: 80%;
+  margin: 0 auto;
+}
+
+.carousel-caption {
+  right: 0;
+  left: 0;
+  margin: 0 auto;
 }
 
 .custom-nav{
@@ -43,6 +69,11 @@ li a:hover{
 .custom-nav a{
   background-color: #333333;
   color: #fff !important;
+}
+
+.kampagne-container {
+  width: 100%;
+  background-color: grey;
 }
 
 .row{
@@ -55,4 +86,19 @@ li a:hover{
 
 .carousel-caption > h1 {
   font-weight: 200;
+  font-size: 3em;
+  padding-bottom: 25px;
 }
+
+
+.fff{
+  font-family: "Oxygen", sans-serif;
+  color: black;
+}
+.fff:hover{
+  color: #2b2b2b;
+}
+
+.carousel-caption > p {
+  font-weight: 100;
+  font-size: 1.15em;
