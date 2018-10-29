@@ -26,6 +26,11 @@ body{
   color: #fff !important;
 }
 
+.kampagne-container {
+  width: 100%;
+  background-color: grey;
+}
+
 .row{
   margin: 0;
 }
@@ -42,6 +47,7 @@ body{
 
 .carousel-caption > h1 {
   font-weight: 200;
+<<<<<<< HEAD
   font-size: 3em;
   padding-bottom: 25px;
 }
@@ -49,4 +55,6 @@ body{
 .carousel-caption > p {
   font-weight: 100;
   font-size: 1.15em;
+=======
+>>>>>>> 07b667878baf17d6c1cc3a310c5f67182f56a6f5
 }
