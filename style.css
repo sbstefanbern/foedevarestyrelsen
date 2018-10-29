@@ -6,30 +6,14 @@ p{
 margin: auto;
 }
 
-.container{
-  max-width: 2400px;
-  padding: 0;
-}
-
-.col-sm-4{
-  padding: 0;
-}
-
-.col-middle{
-  padding: 0 15px;
-}
-
 .navbar {
   padding: 0;
   margin: 0;
 }
+
 .nav-link {
   padding: 0;
   margin:0 ;
-}
-
-.navbar-brand{
-  margin-right: 60px;
 }
 
 footer{
@@ -56,11 +40,6 @@ li a:hover{
   text-decoration: none;
 }
 
-.carousel-caption{
-  margin-bottom: -25px !important;
-  text-align: left;
-  padding-left: 20px;
-}
 
 .logoimg {
   padding-top: 0.5rem;
@@ -117,6 +96,7 @@ li a:hover{
   font-family: "Oxygen", sans-serif;
   color: black;
 }
+
 .fff:hover{
   color: #2b2b2b;
 }
@@ -124,3 +104,4 @@ li a:hover{
 .carousel-caption > p {
   font-weight: 100;
   font-size: 1.15em;
+}
