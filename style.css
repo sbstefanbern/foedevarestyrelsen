@@ -56,3 +56,11 @@ li a:hover{
 .carousel-caption > h1 {
   font-weight: 200;
 }
+
+.fff{
+  font-family: "Oxygen", sans-serif;
+  color: black;
+}
+.fff:hover{
+  color: #2b2b2b;
+}
