@@ -8,3 +8,12 @@
 .container-fluid{
   padding: 0;
 }
+
+.custom-nav{
+  background-color: #333333;
+}
+
+.custom-nav a{
+  background-color: #333333;
+  color: #fff !important;
+}
