@@ -1,12 +1,10 @@
-.logoimg {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  padding-left: 2rem;
-  padding-right: 5rem;
-}
 
 .container-fluid{
   padding: 0;
+}
+
+.contentcontainer {
+  width: 80%;
 }
 
 .custom-nav{
@@ -16,8 +14,4 @@
 .custom-nav a{
   background-color: #333333;
   color: #fff !important;
-}
-
-.row{
-  margin: 0;
 }
