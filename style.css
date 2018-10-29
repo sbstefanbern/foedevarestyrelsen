@@ -24,3 +24,32 @@
   width: 100%;
   background-color: grey;
 }
+<<<<<<< HEAD
+=======
+
+.row{
+  margin: 0;
+}
+
+.custom-carousel{
+  text-align: left;
+  padding: 6px 0 0 18px;
+  background-color: #2d4e6c;
+}
+
+.carousel-caption{
+  margin-bottom: -20px;
+}
+
+.carousel-caption > h1 {
+  font-weight: 200;
+  font-size: 3em;
+  padding-bottom: 25px;
+}
+
+.carousel-caption > p {
+  font-weight: 100;
+  font-size: 1.15em;
+
+}
+>>>>>>> e4648c4263ddf893ce1f9bef9ddede857f7a702e
