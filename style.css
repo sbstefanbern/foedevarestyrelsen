@@ -30,6 +30,11 @@ li a:hover{
   text-decoration: none;
 }
 
+.carousel-caption{
+  margin-bottom: -25px !important;
+  text-align: left;
+  padding-left: 20px;
+}
 
 .logoimg {
   padding-top: 0.5rem;
