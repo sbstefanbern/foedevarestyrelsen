@@ -90,6 +90,15 @@ li a:hover{
   padding-bottom: 25px;
 }
 
+
+.fff{
+  font-family: "Oxygen", sans-serif;
+  color: black;
+}
+.fff:hover{
+  color: #2b2b2b;
+}
+
 .carousel-caption > p {
   font-weight: 100;
   font-size: 1.15em;
