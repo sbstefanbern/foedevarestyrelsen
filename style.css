@@ -9,10 +9,6 @@ margin: auto;
 footer{
   background-color: #d2d2d2;
   padding-top: 30px;
-<<<<<<< HEAD
-}
-
-=======
 }
 
 .headercontainer {
@@ -25,7 +21,6 @@ footer{
   padding: 0;
 }
 
->>>>>>> 2bfc1677657991371ebd65ea381ab7ac9c6fb3d9
 li a{
   color: black;
 }
@@ -67,14 +62,11 @@ li a:hover{
   color: #fff !important;
 }
 
-<<<<<<< HEAD
-=======
 .kampagne-container {
   width: 100%;
   background-color: grey;
 }
 
->>>>>>> 2bfc1677657991371ebd65ea381ab7ac9c6fb3d9
 .row{
   margin: 0;
 }
@@ -85,9 +77,6 @@ li a:hover{
 
 .carousel-caption > h1 {
   font-weight: 200;
-<<<<<<< HEAD
-}
-=======
   font-size: 3em;
   padding-bottom: 25px;
 }
@@ -95,4 +84,3 @@ li a:hover{
 .carousel-caption > p {
   font-weight: 100;
   font-size: 1.15em;
->>>>>>> 2bfc1677657991371ebd65ea381ab7ac9c6fb3d9
