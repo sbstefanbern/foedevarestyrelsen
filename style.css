@@ -2,6 +2,29 @@ body{
   font-family: "Oxygen", sans-serif;
 }
 
+p{
+margin: auto;
+}
+
+footer{
+  background-color: #d2d2d2;
+  padding-top: 30px;
+}
+
+li a{
+  color: black;
+}
+
+li a:hover{
+  color: #2b2b2b;
+  text-decoration: none;
+}
+
+fa fa-facebook{
+  font-family: "Oxygen", sans-serif;
+}
+
+
 .logoimg {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
