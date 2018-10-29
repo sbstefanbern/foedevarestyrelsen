@@ -1,5 +1,7 @@
+body{
+  font-family: "Oxygen", sans-serif;
+}
 
-<<<<<<< HEAD
 p{
 margin: auto;
 }
@@ -18,23 +20,15 @@ li a:hover{
   text-decoration: none;
 }
 
-fa fa-facebook{
-  font-family: "Oxygen", sans-serif;
-}
-
 
 .logoimg {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   padding-left: 2rem;
   padding-right: 5rem;
-=======
-.container-fluid{
-  padding: 0;
->>>>>>> 8d0b2924223efc538b873d87e4276017e802eee0
 }
 
-.container {
+.container-fluid{
   padding: 0;
 }
 
@@ -51,38 +45,14 @@ fa fa-facebook{
   color: #fff !important;
 }
 
-.kampagne-container {
-  width: 100%;
-  background-color: grey;
-}
-<<<<<<< HEAD
-
 .row{
   margin: 0;
 }
 
 .custom-carousel{
-  text-align: left;
-  padding: 6px 0 0 18px;
   background-color: #2d4e6c;
-}
-
-.carousel-caption{
-  margin-bottom: -20px;
 }
 
 .carousel-caption > h1 {
   font-weight: 200;
-<<<<<<< HEAD
-  font-size: 3em;
-  padding-bottom: 25px;
 }
-
-.carousel-caption > p {
-  font-weight: 100;
-  font-size: 1.15em;
-=======
->>>>>>> 07b667878baf17d6c1cc3a310c5f67182f56a6f5
-}
-=======
->>>>>>> parent of d3babfd... Merge branch 'master' of https://github.com/sbstefanbern/Foedevarestyrelsen
