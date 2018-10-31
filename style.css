@@ -58,8 +58,13 @@ margin: auto;
 }
 
 footer{
-  background-color: #d2d2d2;
+  background-color: #2d4e6c;
   padding-top: 30px;
+  color: #FFF;
+}
+
+footer a{
+  color: #FFF !important;
 }
 
 .copyright{
@@ -133,6 +138,7 @@ li a:hover{
 .dynamic-tabs-container {
   width: 100%;
   background-color: #d2d2d2;
+  padding-bottom: 30px;
 }
 
 .row{
@@ -168,7 +174,7 @@ li a:hover{
 
 .fff{
   font-family: "Oxygen", sans-serif;
-  color: black;
+  color: #fff;
 }
 
 .fff:hover{
@@ -193,13 +199,14 @@ li a:hover{
   font-size: 1.1em;
 }
 
-.dynamic-tabs li{
+.dynamic-tabs a{
   padding: 15px 40px;
   background-color: #eaeaea;
   transition: all 0.4s ease;
+  display: block;
 }
 
-.dynamic-tabs li:hover{
+.dynamic-tabs a:hover{
   background-color: #d2d2d2;
 }
 
@@ -248,7 +255,7 @@ li a:hover{
 .footercontainer{
   max-width: 2400px;
   padding: 0;
-  background-color:#d2d2d2;
+  background-color:#2d4e6c;
 }
 
 .cardtext {
@@ -261,10 +268,7 @@ li a:hover{
   margin-top: -21.1rem;
   width: 380px;
   z-index: 5  ;
-<<<<<<< HEAD
-=======
-  opacity: 0.3;
->>>>>>> 1f941d03ec476b1f1b65a75aa70fde656f26f8ed
+  opacity: 0.2;
 }
 
 .portfolio-item {
