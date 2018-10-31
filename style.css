@@ -198,10 +198,9 @@ li a:hover{
   text-align: center;
 }
 
-.kampagne-container p{
+.kampagne-container h5{
   color: #FFF;
   padding-top: 15px;
-  font-size: 1.1em;
 }
 
 .dynamic-tabs a{
