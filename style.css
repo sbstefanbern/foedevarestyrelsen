@@ -9,6 +9,7 @@ margin: auto;
 .container{
   max-width: 2400px;
   padding: 0;
+  z-index: 10;
 }
 
 .col-sm-4{
@@ -115,6 +116,7 @@ li a:hover{
 
 .row{
   margin: 0;
+  z-index: 5;
 }
 
 .custom-carousel{
@@ -189,5 +191,11 @@ li a:hover{
   padding: 0;
   background-color:#d2d2d2;
 }
-.krone{
+
+.kroneplac {
+  right: 0;
+  position: absolute;
+  margin-top: -21.1rem;
+  width: 380px;
+  z-index: 5  ;
 }
