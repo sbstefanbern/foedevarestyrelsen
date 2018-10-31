@@ -6,6 +6,10 @@ p{
 margin: auto;
 }
 
+.container h2 {
+  padding: 1rem;
+  padding-top: 2rem;
+}
 .container{
   max-width: 2400px;
   padding: 0;
@@ -191,6 +195,7 @@ li a:hover{
   font-weight: 100;
   padding: 30px 0 20px 0;
   font-size: 1.8em;
+  text-align: center;
 }
 
 .kampagne-container p{
