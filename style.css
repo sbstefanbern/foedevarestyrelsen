@@ -193,8 +193,8 @@ li a:hover{
 }
 
 .kroneplac {
-  right: 0;
-  position: absolute;
+  float: right;
+  position: static;
   margin-top: -21.1rem;
   width: 380px;
   z-index: 5  ;
