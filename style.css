@@ -105,8 +105,14 @@ li a:hover{
 
 .kampagne-container {
   width: 100%;
-  background-color: grey;
+  background-color: #666;
+
 }
+
+.dynamic-tabs {
+  margin-top: 60px;
+}
+
 
 .dynamic-tabs-container {
   width: 100%;
@@ -171,17 +177,42 @@ li a:hover{
   background-color: #d2d2d2;
 }
 
+.dynamic-list a{
+  margin-bottom: 5px !important;
+}
+
 .tab-pane{
-  padding: 20px 0 0 0;
+  padding: 30px 0 0 0;
 }
 
 .tab-pane p{
   text-decoration: none !important;
+  padding-bottom: 20px;
+}
+
+.tab-pane a{
+  color: #2b2b2b;
+  text-decoration: underline;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.tab-pane ul{
+  list-style-type: none;
+}
+
+.tab-pane li a{
+  padding-bottom: 0;
 }
 
 .tab-pane h3{
   font-weight: 100;
   text-decoration: none;
+  padding-bottom: 10px;
+}
+
+.nav-tabs{
+  border-bottom: 0;
 }
 
 .footercontainer{
