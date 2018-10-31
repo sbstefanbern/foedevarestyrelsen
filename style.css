@@ -258,3 +258,11 @@ li a:hover{
   width: 380px;
   z-index: 5  ;
 }
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.pagination {
+  margin-bottom: 30px;
+}
