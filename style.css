@@ -108,6 +108,11 @@ li a:hover{
   background-color: grey;
 }
 
+.dynamic-tabs-container {
+  width: 100%;
+  background-color: #d2d2d2;
+}
+
 .row{
   margin: 0;
 }
@@ -150,4 +155,31 @@ li a:hover{
 .carousel-caption > p {
   font-weight: 100;
   font-size: 1.15em;
+}
+
+.dynamic-tabs li{
+  padding: 15px 40px;
+  background-color: #eaeaea;
+  transition: all 0.4s ease;
+}
+
+.dynamic-tabs li:hover{
+  background-color: #d2d2d2;
+}
+
+.active{
+  background-color: #d2d2d2;
+}
+
+.tab-pane{
+  padding: 20px 0 0 0;
+}
+
+.tab-pane p{
+  text-decoration: none !important;
+}
+
+.tab-pane h3{
+  font-weight: 100;
+  text-decoration: none;
 }
