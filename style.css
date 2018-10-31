@@ -12,6 +12,17 @@ margin: auto;
   z-index: 10;
 }
 
+.navbar-grey{
+  padding: 10px 0;
+}
+
+.navbar-grey li{
+  padding-right: 30px;
+  font-size: 1.25em;
+  font-weight: 100;
+}
+
+
 .col-sm-4{
   padding: 0;
 }
