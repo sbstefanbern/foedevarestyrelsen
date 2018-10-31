@@ -12,10 +12,6 @@ margin: auto;
   z-index: 10;
 }
 
-.navbar-toggler{
-  display: inline-block;
-}
-
 .navbar-grey{
   padding: 10px 0;
 }
@@ -58,8 +54,13 @@ margin: auto;
 }
 
 footer{
-  background-color: #d2d2d2;
+  background-color: #2d4e6c;
   padding-top: 30px;
+  color: #fff;
+}
+
+footer a{
+  color: #fff !important;
 }
 
 .copyright{
@@ -133,6 +134,7 @@ li a:hover{
 .dynamic-tabs-container {
   width: 100%;
   background-color: #d2d2d2;
+  padding-bottom: 30px;
 }
 
 .row{
@@ -168,7 +170,7 @@ li a:hover{
 
 .fff{
   font-family: "Oxygen", sans-serif;
-  color: black;
+  color: #fff;
 }
 
 .fff:hover{
@@ -193,13 +195,14 @@ li a:hover{
   font-size: 1.1em;
 }
 
-.dynamic-tabs li{
+.dynamic-tabs a{
   padding: 15px 40px;
   background-color: #eaeaea;
+  display: block;
   transition: all 0.4s ease;
 }
 
-.dynamic-tabs li:hover{
+.dynamic-tabs a:hover{
   background-color: #d2d2d2;
 }
 
@@ -229,6 +232,7 @@ li a:hover{
 
 .tab-pane ul{
   list-style-type: none;
+  margin-bottom: 0;
 }
 
 .tab-pane li a{
@@ -248,7 +252,7 @@ li a:hover{
 .footercontainer{
   max-width: 2400px;
   padding: 0;
-  background-color:#d2d2d2;
+  background-color: #2d4e6c;
 }
 
 .kroneplac {
