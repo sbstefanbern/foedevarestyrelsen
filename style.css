@@ -255,10 +255,22 @@ li a:hover{
   background-color: #2d4e6c;
 }
 
+.cardtext {
+  padding-top: 1rem;
+}
+
 .kroneplac {
   float: right;
   position: static;
   margin-top: -21.1rem;
   width: 380px;
   z-index: 5  ;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.pagination {
+  margin-bottom: 30px;
 }
