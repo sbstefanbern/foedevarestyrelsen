@@ -157,7 +157,7 @@ li a:hover{
 .carousel-caption > h1 {
   font-weight: 200;
   font-size: 3em;
-  padding-bottom: 25px;
+  padding-bottom: 5px;
 }
 
 .carousel-caption{
@@ -192,6 +192,7 @@ li a:hover{
 .carousel-caption > p {
   font-weight: 100;
   font-size: 1.15em;
+  padding-bottom: 2rem;
 }
 
 .kampagne-header{
